@@ -1,9 +1,8 @@
 ---
 name: Bug report English
 about: Create a report to help us improve
-title: ''
 labels: documentation
-assignees: Vava62600
+assignees: Vava62600 , SRP Devloppers
 
 ---
 
