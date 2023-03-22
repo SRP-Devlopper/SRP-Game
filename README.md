@@ -1,6 +1,6 @@
 # SRP Game
  
-** SRP Game is the source code and repository of the game SRP **
+ SRP Game is the source code and repository of the game SRP 
 
 <p> vous pouvez utiliser notre code seulement pour creer votre propre jeu </p>
 <p> en aucun cas vous ne devez l'utiliser a des fins de création de launcher avec des keylogger </p>
