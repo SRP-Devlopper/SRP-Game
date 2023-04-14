@@ -24,7 +24,7 @@ Le cas échéant, ajoutez des captures d’écran pour expliquer votre problème
 Desktop (veuillez compléter les informations suivantes) :
 
 Système d’exploitation: [par exemple MacOS , Windows , Ubuntu , ...]
-Version [par exemple 1.0.12 ( Trouvé dans le fichier journaux si vous ne savez pas où il se trouve, peut voir cet article:]Smartphone (veuillez compléter les informations suivantes) :
+Version [par exemple 1.0.12 ( Trouvé dans le fichier journaux si vous ne savez pas où il se trouve, peut voir cet article:)]Smartphone (veuillez compléter les informations suivantes) :
 
 Appareil: [par exemple, iPhone11, Samsung Galaxy Note 9, ...]
 Système d’exploitation: [par exemple iOS15 , Android 13 , ...]
